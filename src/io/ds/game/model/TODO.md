@@ -6,7 +6,7 @@
     - methods: play(Player self, Enemy enemy)
 
 2. Define Character interface, Enemy and Player class
-    - Character interface should have health, attack, etc
+    - Character interface should have health, attack, etc. // refers sa guide.md file sa gc
     - Enemy and Player implements Character
     - Wa pay buhaton sa enemy
     - Player dapat naay 'Dialogue progress' na variable. ang Dialogue object ang basehan sa progress sa story.
